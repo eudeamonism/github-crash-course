@@ -1,4 +1,6 @@
 git init --- starting a project
+git remote add origin <repository link> --links repository
+
 
 
 
@@ -8,3 +10,6 @@ git checkout name
 git branch ----------------to see all branches
 git branch -b name ---------------- create new branch and checkout to it
 git add -A --- adds all subfolders and main folder if in a nested folder
+git branch - D name---------------- delete a branch
+
+git merge <name> ---------------- typically master is branch and name secondary
