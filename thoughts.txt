@@ -1,3 +1,7 @@
+git init --- starting a project
+
+
+
 git log  (q or z to get out)
 git branch -D name
 git checkout name
