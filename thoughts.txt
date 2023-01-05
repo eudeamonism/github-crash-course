@@ -1,2 +1,6 @@
-What mos?
-Added Stiff
+git log  (q or z to get out)
+git branch -D name
+git checkout name
+git branch ----------------to see all branches
+git branch -b name ---------------- create new branch and checkout to it
+git add -A --- adds all subfolders and main folder if in a nested folder
