@@ -5,7 +5,7 @@ html {
 body {
   margin: 0;
   text-align: center;
-  background-color: #3b3433;
+  background-color: #322e2d;
   color: #f6f0ee;
 }
 
@@ -18,4 +18,8 @@ body {
 
 h1 {
   color: #e8d4b2;
+}
+
+a {
+  color: #fee389;
 }
